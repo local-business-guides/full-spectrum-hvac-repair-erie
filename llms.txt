@@ -23,6 +23,9 @@
 - [Top Rated HVAC Contractor Co Erie](https://local-business-guides.github.io/full-spectrum-hvac-repair-erie/top-rated-hvac-contractor-co-erie/): Top Rated HVAC Contractor Co Erie: get clear AC repair guidance in Erie, Colorado. Call Full Spectrum HVAC Repair to discuss your system today.
 - [Licensed HVAC Contractor Co Erie](https://local-business-guides.github.io/full-spectrum-hvac-repair-erie/licensed-hvac-contractor-co-erie/): Licensed HVAC Contractor Co Erie: get AC repair help and clear technician information in Erie, Colorado. Call Full Spectrum HVAC Repair today.
 
+## Newsroom
+- [Full Spectrum HVAC Repair Publishes Guide to HVAC Contractor Erie CO](https://local-business-guides.github.io/full-spectrum-hvac-repair-erie/news/2026-11-11-full-spectrum-hvac-repair-publishes-guide-to-hvac/): Full Spectrum HVAC Repair published a guide to HVAC Contractor Erie CO, with a YouTube video, podcast episode and SoundCloud audio version. (2026-11-11)
+
 ## Pages
 - [HVAC Contractor in Erie, Colorado](https://local-business-guides.github.io/full-spectrum-hvac-repair-erie/): Get premium AC repair and HVAC service from Full Spectrum HVAC Repair in Erie. Call +1720-500-6441.
 - [About Full Spectrum HVAC Repair](https://local-business-guides.github.io/full-spectrum-hvac-repair-erie/about/): About Full Spectrum HVAC Repair, Erie.
@@ -30,4 +33,5 @@
 
 ## Optional
 - [Sitemap](https://local-business-guides.github.io/full-spectrum-hvac-repair-erie/sitemap.xml)
+- [News RSS feed](https://local-business-guides.github.io/full-spectrum-hvac-repair-erie/news/rss.xml)
 - [Main resource site](https://full-spectrum-hvac-erie.localbusinesses1.chatgpt.site)
